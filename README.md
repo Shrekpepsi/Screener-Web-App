@@ -6,4 +6,4 @@ Use https://codesandbox.io for testing purposes
 
 # Live Working / Demo
 
-Click this link to view the working: https://codesandbox.io/p/github/Shrekpepsi/Screener-Web-App/main?
+Click this link to view the working: https://codesandbox.io/p/github/Shrekpepsi/Screener-Web-App/main
