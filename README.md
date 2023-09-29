@@ -1,5 +1,6 @@
 
-![self-asessment-tool-graphic](https://github.com/Shrekpepsi/Screener-Web-App/assets/107950320/27aea2ff-d729-4373-afea-808a473c5ba0)
+![social_image_en](https://github.com/Shrekpepsi/Screener-Web-App/assets/107950320/c8c6d8f5-7e5a-4aa5-8715-3617303d3182)
+
 
 
 
