@@ -1,5 +1,5 @@
 
-![social_image_en](https://github.com/Shrekpepsi/Screener-Web-App/assets/107950320/c8c6d8f5-7e5a-4aa5-8715-3617303d3182)
+![WipeOut22_29_2023_102203 386000](https://github.com/Shrekpepsi/Screener-Web-App/assets/107950320/f3473e0c-a20b-46a5-8ce9-33615efcc520)
 
 
 
