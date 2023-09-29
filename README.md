@@ -4,7 +4,7 @@
 
 
 # Screener-Web-App
-A responsive screener web app for identifying COVID-19 using its symptoms using Html/Css/JavaScript/Jquery/Bootstrap.
+COVID-19 Screener Web App is a user-friendly COVID-19 Awareness & Assistance Web App that provides detailed, up-to-date information on COVID-19, including its symptoms and prevention guidelines, sourced from credible health organizations. It also includes a self-assessment test on the basis of which evaluate their COVID-19 risk, with all the immediate precautionary preventions and a clear professional medical advice for the user in the end.
 
 
 Use https://codesandbox.io for testing purposes and review the mobile and web view compitability 
